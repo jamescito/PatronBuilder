@@ -5,6 +5,7 @@ public class Pizza {
     private String masa;
     private String salsa;
     private String ingredientes;
+    public Object toString;
 
     public Pizza()
     {
@@ -53,5 +54,5 @@ public class Pizza {
                 '}';
     }
 
-    
+
 }
